@@ -1,6 +1,6 @@
 ---
 layout: post
-title: plan to study the git
+title: Git-Practice > Plan to study the git
 category: "git"
 tags: [git]
 date: 2018-09-01 17:40
