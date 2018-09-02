@@ -4,7 +4,7 @@ title: Git-Practice > Intro
 category: "git"
 tags: [git]
 date: 2018-09-01 17:45
-update: 2018-09-02 15:40
+update: 2018-09-02 21:40
 comment: false
 ---
 
@@ -39,13 +39,18 @@ comment: false
     - 여러 commit in specific branch, 여러 branch...
     - jump to specific commit or branch using checkout.
 
-4. merge
+4. stash
+    - if you check out branch from A to B and some files are not committed yet, they also come along into branch B.
+    - stash is temporary space, which it is not working directory and staging area.  
+
+
+5. merge
     - just merge two branch into one.
 
-5. fetch and pull
+6. fetch and pull
     - Fetch 는 가져와서 임시폴더 (.git)에 저장
     - Pull은 바로 현재branch에 merge작업을 동반
-    
+
 ## The famous open-source projects in Git-hub
 1. Node.js (https://github.com/nodejs/node)    
 2. Angular.js (https://github.com/angular/angular.js)    
