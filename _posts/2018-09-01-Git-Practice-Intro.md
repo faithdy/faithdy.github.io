@@ -4,6 +4,7 @@ title: Git-Practice > Intro
 category: "git"
 tags: [git]
 date: 2018-09-01 17:45
+update: 2018-09-02 15:40
 comment: false
 ---
 
@@ -40,7 +41,19 @@ comment: false
 
 4. merge
     - just merge two branch into one.
+
+5. fetch and pull
+    - Fetch 는 가져와서 임시폴더 (.git)에 저장
+    - Pull은 바로 현재branch에 merge작업을 동반
     
+## The famous open-source projects in Git-hub
+1. Node.js (https://github.com/nodejs/node)    
+2. Angular.js (https://github.com/angular/angular.js)    
+3. Spring-boot (https://github.com/spring-projects/spring-boot)    
+4. Rust (https://github.com/rust-lang/rust)    
+5. Redis (https://github.com/antirez/redis)    
+6. Flask (https://github.com/mitsuhiko/flask)
+
 ---
 [^1]:
     working directory, staging area, git directory(repository).
