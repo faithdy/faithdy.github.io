@@ -4,7 +4,7 @@ title: Git-Practice > Intro
 category: "git"
 tags: [git]
 date: 2018-09-01 17:45
-update: 2018-09-02 21:40
+update: 2018-09-03 23:55
 comment: false
 ---
 
@@ -46,6 +46,12 @@ comment: false
 
 5. merge
     - just merge two branch into one.
+    - some types of branch integration:
+        - fast-forward merge
+        - non fast-forward merge
+        - merge-commit
+        - rebase
+
 
 6. fetch and pull
     - Fetch 는 가져와서 임시폴더 (.git)에 저장
