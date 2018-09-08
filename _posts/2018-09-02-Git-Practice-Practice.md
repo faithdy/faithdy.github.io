@@ -47,6 +47,13 @@ git blame <file name>
 git show <commit ID>
 ```
 
+## 5. usefull features
+  1. amend
+  2. revert
+  3. rebase
+  4. cherry-pick
+  5. squash
+  
 ---
 [^1]:
     [Git: Rebase는 언제 어떻게 해야 할까?](http://dogfeet.github.io/articles/2012/git-merge-rebase.html)
