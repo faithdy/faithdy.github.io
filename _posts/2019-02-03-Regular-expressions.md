@@ -2,7 +2,7 @@
 layout: post
 title: Grep and Regular Expressions
 category: bash, regular expression
-tags: [bash, regular_expressions]
+tags: [bash,regular_expressions]
 date: 2019-02-03 20:50
 comment: true
 ---
@@ -16,8 +16,8 @@ comment: true
 ## Regular Expressions
 - ^(word) : starting with the string word. e.g., `grep ^root /etc/passwd`
 - (word)\$ : ending with the string word. e.g., `ls -al | grep txt$`
+- [yf] : matching if any y or f is contained
 
- 
 
 
 ## Reference
