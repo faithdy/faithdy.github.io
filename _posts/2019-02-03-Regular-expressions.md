@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Grep and Regular Expressions
-category: bash, regular expression
-tags: [bash,regular_expressions]
+categories: "bash"
+tags: [bash,regular expression]
 date: 2019-02-03 20:50
 comment: true
 ---
